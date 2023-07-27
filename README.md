@@ -17,4 +17,3 @@
 
 _Link:https://numpy.org/doc/stable/reference/generated/numpy.array.html_ <br/>
 _Link: https://numpy.org/doc/stable/reference/_
-
