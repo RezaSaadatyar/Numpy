@@ -15,5 +15,6 @@
 - Indexing and Slicing
 - Sorting and Searching in Numpy
 
-_Link:https://numpy.org/doc/stable/reference/generated/numpy.array.html_ <br/>
-_Link: https://numpy.org/doc/stable/reference/_
+**[Link](https://numpy.org/doc/stable/reference/generated/numpy.array.html_)** <br/>
+**[Link](https://numpy.org/doc/stable/reference/_)**
+
