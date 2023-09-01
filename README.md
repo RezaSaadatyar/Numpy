@@ -29,7 +29,7 @@ Numpy:
 - where, argwhere, extract
 
 **[Link 1](https://numpy.org/doc/stable/reference/generated/numpy.array.html_)** <br/>
-**[Link 2](https://numpy.org/doc/stable/reference/_)**
+**[Link 2](https://numpy.org/doc/stable/reference/_)**<br/>
 NumPy (Numerical Python) is a powerful library in Python that provides support for working with arrays and matrices of numerical data, along with a wide range of mathematical functions to operate on these arrays. It's widely used in scientific computing, data analysis, and machine learning due to its efficiency and convenience.
 
 At the core of NumPy is the `ndarray` (n-dimensional array) class, which is a multi-dimensional array object that allows you to store and manipulate large amounts of homogeneous numerical data efficiently.
